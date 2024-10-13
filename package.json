@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@internationalized/date": "^3.5.6",
     "@nextui-org/react": "^2.4.8",
+    "@phosphor-icons/react": "^2.1.7",
     "framer-motion": "^11.11.8",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
